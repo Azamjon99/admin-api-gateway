@@ -1,6 +1,6 @@
 module github.com/Azamjon99/admin-api-gateway
 
-go 1.18
+go 1.21.1
 
 require (
 	github.com/Azamjon99/logistics-staff-service v0.0.0-20231001191129-5f5a52e18e56
